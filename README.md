@@ -75,10 +75,27 @@ All versions follow the same modular principles and assembly method.
 
 ## Files
 
-This repository includes:
-- Helical blade modules (V1, V2, V3)
-- Top caps and bottom sections
-- Motor housing and weather-resistant case
-- Case lid for sealing electronics
+This repository includes 3D model files organized into the following folders:
+
+### v1/
+Version 1 components:
+- `vawtv1bottom.3mf` - Bottom section
+- `vawtv1middle.3mf` - Middle module
+- `vawtv1cap.3mf` - Top cap
+
+### v2/
+Version 2 components:
+- `vawtv2bottom.3mf` - Bottom section
+- `vawtv2top.3mf` - Top section
+
+### v3/
+Version 3 components:
+- `vawtv3short.3mf` - Short module
+- `vawtv3tall.3mf` - Tall module
+
+### case/
+Motor housing and case components:
+- `motor+case.3mf` - Motor housing
+- `casecover.3mf` - Case lid for sealing electronics
 
 All models are provided as .3mf files.
