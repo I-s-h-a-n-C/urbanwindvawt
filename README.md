@@ -92,7 +92,7 @@ Version 2 components:
 Version 3 components:
 - `vawtv3short.3mf` - Short module
 - `vawtv3tall.3mf` - Tall module
-- - `vawtv3tall.3mf` - Top cap
+- `vawtv3tall.3mf` - Top cap
 
 ### case/
 Motor housing and case components:
