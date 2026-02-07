@@ -4,7 +4,7 @@
 A low cost, modular, 3D printable helical vertical axis wind turbine designed for weak, turbulent, multidirectional urban wind.
 
 This project focuses on consistency, scalability, and accessibility rather than peak efficiency. It is built to capture small amounts of energy from wind that is normally wasted in cities.
-Read the fool build guide with pictures and results [here](https://www.instructables.com/Modular-Helical-Vertical-Axis-Wind-Turbine-for-Urb/).
+Read the full build guide with pictures and results [here](https://www.instructables.com/Modular-Helical-Vertical-Axis-Wind-Turbine-for-Urb/).
 
 ## Overview
 Traditional horizontal-axis wind turbines struggle in urban environments. City wind is:
