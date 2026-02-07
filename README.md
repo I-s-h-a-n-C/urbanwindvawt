@@ -1,4 +1,6 @@
 # Modular Helical Vertical Axis Wind Turbine for Urban Wind
+<img width="851" height="315" alt="image" src="https://github.com/user-attachments/assets/96320cda-6276-48ec-bd0e-3b63379c8d94" />
+
 A low cost, modular, 3D printable helical vertical axis wind turbine designed for weak, turbulent, multidirectional urban wind.
 
 This project focuses on consistency, scalability, and accessibility rather than peak efficiency. It is built to capture small amounts of energy from wind that is normally wasted in cities.
